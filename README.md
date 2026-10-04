@@ -1,5 +1,5 @@
 # Teste-Projtc-Slotgame
-# 🎰 SlotIcons — Jogo 777
+# 🎰 SlotIcons 
 
 Projeto desenvolvido em **C# / .NET 8** para aprendizado de programação, orientação a objetos, Entity Framework Core e integração com MySQL.
 
